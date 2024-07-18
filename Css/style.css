@@ -1,0 +1,7 @@
+table{
+    border: 2px solid rgb(145, 98, 231);
+    border-collapse: collapse;}
+td{
+    border: 2px solid rgb(145, 98, 231);
+    padding: 10px;
+}
