@@ -4,5 +4,4 @@ for(let caracter = 0; caracter < frase.length; caracter++){
     if(caracter < frase.length - 1){
         document.write(`-`)
     }
-
 }
